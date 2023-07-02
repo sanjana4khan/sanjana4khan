@@ -8,5 +8,6 @@ Here are some ideas to get you started:
 
 - I’m currently working at Ollyo
 - 🌱 I’m currently learning React
+- 📖 Read my blogs: https://sanjana940904.hashnode.dev/
 
 
